@@ -9,7 +9,7 @@
   <a href="https://app.netlify.com/sites/ecstatic-jackson-749344/deploys"><img src="https://api.netlify.com/api/v1/badges/ff0eb1e7-e70c-4319-9e5c-f8532b053900/deploy-status"></a>
 </p>
 
-This app just allow switching between bids and auctions on the DutchX protocol.
+Simple wrapper of `kleros/dx-react` and `kleros/fairdex` to allow switching between bids and auctions on the DutchX protocol.
 
 ## Get Started
 
