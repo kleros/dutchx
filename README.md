@@ -14,8 +14,7 @@ Simple wrapper of `kleros/dx-react` and `kleros/fairdex` to allow switching betw
 ## Get Started
 
 1.  Clone this repo;
-2.  Duplicate `.env.example` and rename it to `.env`. Fill the environment variables.
-3.  Run `yarn` to install dependencies and then `yarn start` to start the dev server.
+2.  Run `yarn` to install dependencies and then `yarn start` to start the dev server.
 
 ## Other Scripts
 
@@ -23,4 +22,3 @@ Simple wrapper of `kleros/dx-react` and `kleros/fairdex` to allow switching betw
 - `yarn run lint` - Lint the entire project's .js files.
 - `yarn run cz` - Run commitizen.
 - `yarn run build` - Create a production build.
-
