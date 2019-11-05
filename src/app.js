@@ -4,18 +4,18 @@ import { ReactComponent as Logo } from './logo.svg'
 import 'antd/dist/antd.css'
 
 const App = () => {
-  const [bidding, setBidding] = useState()
+  const [bidding, setBidding] = useState(true)
 
   return (
     <Layout style={{ height: '100%' }}>
       <Layout.Header style={{ display: 'flex', alignItems: 'center' }}>
         <Logo />
         <Switch
-          checkedChildren="Bid"
-          unCheckedChildren="Auction"
+          checkedChildren="Auction"
+          unCheckedChildren="Bid"
           onChange={() => setBidding(state => !state)}
           style={{
-            backgroundColor: bidding ? '' : '#f5a300',
+            backgroundColor: bidding ? '#f5a300' : '',
             minWidth: '70px',
             marginLeft: 'auto'
           }}
