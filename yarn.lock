@@ -1304,10 +1304,10 @@
     "@types/istanbul-reports" "^1.1.1"
     "@types/yargs" "^13.0.0"
 
-"@kleros/dx-react@^2.6.12":
-  version "2.6.12"
-  resolved "https://registry.yarnpkg.com/@kleros/dx-react/-/dx-react-2.6.12.tgz#e43290630679cbc237686da2f223e5ba044819bf"
-  integrity sha512-uonm0X37AyVz4OJgQ5O5PXdUhYa0w4BaQ51xmdXHmT8nNC0eoG3rAcN5t5eCCq8IldejXBdr6tX4tT8ak3N1KQ==
+"@kleros/dx-react@^2.6.13":
+  version "2.6.13"
+  resolved "https://registry.yarnpkg.com/@kleros/dx-react/-/dx-react-2.6.13.tgz#cc20a7c3862961c97a24885e5f1663b914005a04"
+  integrity sha512-gan73UaEIK2gMsxe/zi6PfKLnFWtxQinLZVBqyw+naFY4/XltjiVb30UaqHJZdNg9H39tGjxzYjEkSw4qG6zBw==
   dependencies:
     "@gnosis.pm/dx-contracts" "2.0.0"
     "@gnosis.pm/gno-token" "2.0.0"
