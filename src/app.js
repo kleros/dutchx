@@ -23,6 +23,7 @@ const App = () => {
       </Layout.Header>
       <Layout.Content style={{ height: '100%' }}>
         <iframe
+          id="app-iframe"
           title="selectedApp"
           style={{ height: '100%', width: '100%', border: 'none' }}
           src={bidding ? '/fairdex-dist' : '/slowtrade-dist'}
