@@ -1318,9 +1318,9 @@
     "@types/yargs" "^13.0.0"
 
 "@kleros/dx-react@^2.6.13":
-  version "2.6.20"
-  resolved "https://registry.yarnpkg.com/@kleros/dx-react/-/dx-react-2.6.20.tgz#864c62651f62daeb5d7fa1fc296f864bfd34ce6b"
-  integrity sha512-dYCED9c1fgx1uSrz4iAXcgyitn7UNj5uTmZlkO3XCgz81WEx/q7C2LhG847KptPzrso2376t9JXN4/RnCkRNzQ==
+  version "2.6.21"
+  resolved "https://registry.yarnpkg.com/@kleros/dx-react/-/dx-react-2.6.21.tgz#31e1cf36f509b670f0082de1ce890a4dfaa1d37b"
+  integrity sha512-WjdV5UkrC3gNIP0RUMVSXlp6WHRgb4ntKir/uUKVUFUJyLKHr76Gt0mo4u6P84UjSOC/ddZ5iIcZGwSxsEpoSw==
   dependencies:
     "@gnosis.pm/dx-contracts" "2.0.0"
     "@gnosis.pm/gno-token" "2.0.0"
