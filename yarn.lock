@@ -1355,9 +1355,9 @@
     webpack "3.12.0"
 
 "@kleros/fairdex@^1.0.12":
-  version "1.0.12"
-  resolved "https://registry.yarnpkg.com/@kleros/fairdex/-/fairdex-1.0.12.tgz#947e0bc98cd400ea5355ffa8baf5b215361fc0eb"
-  integrity sha512-BU62tDo/7BU24H4YPTTTVeeLyOOZNijXb4JBkpYH6urDBSrqY8M4ZvOb5wg94vqgLQAqvI7pWeyHa1Mx3mUqzw==
+  version "1.0.13"
+  resolved "https://registry.yarnpkg.com/@kleros/fairdex/-/fairdex-1.0.13.tgz#04cbfb3a84ef711987aed17eb702c739e8b4ca55"
+  integrity sha512-2A/VNp4QX6Gp22SGfqM9aouewZ29q39xObAt1YrCZiuBQTrBpMNuxxhh4axLz9Z7JP1gW5HBjdynEZ/3ZYIitw==
   dependencies:
     "@gnosis.pm/dx-contracts" "^2.0.0"
     bignumber.js "^8.0.2"
