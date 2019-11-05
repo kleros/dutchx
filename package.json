@@ -9,7 +9,7 @@
   "scripts": {
     "build:dependencies": "cp -r node_modules/@kleros/fairdex/fairdex-dist/ build/fairdex-dist/ && cp -r node_modules/@kleros/dx-react/slowtrade-dist/ build/slowtrade-dist/",
     "build:react": "react-scripts build",
-    "build": "yarn build:react && yarn build:dependencies",
+    "build": "yarn clean && yarn build:react && yarn build:dependencies",
     "clean": "rm -rf build/fairdex build/slowtrade",
     "lint": "eslint './src/**/*.js'",
     "start": "yarn clean && yarn build && serve build"
