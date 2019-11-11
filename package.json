@@ -15,8 +15,8 @@
     "start": "yarn clean && yarn build && serve build"
   },
   "dependencies": {
-    "@kleros/dx-react": "^2.6.23",
-    "@kleros/fairdex": "^1.0.13",
+    "@kleros/dx-react": "^2.6.24",
+    "@kleros/fairdex": "^1.0.14",
     "antd": "^3.24.3",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
