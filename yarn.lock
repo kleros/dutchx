@@ -1317,10 +1317,10 @@
     "@types/istanbul-reports" "^1.1.1"
     "@types/yargs" "^13.0.0"
 
-"@kleros/dx-react@^2.6.13":
-  version "2.6.22"
-  resolved "https://registry.yarnpkg.com/@kleros/dx-react/-/dx-react-2.6.22.tgz#c8c02030605070dce2394123ce71f8f2ecce68f7"
-  integrity sha512-zDLfOYsPUFCnVLYJk6b+jnneLSl9or96Iy4XHBBXGU/TxktOI/78kNW/xoOZ8zGg9PYahiCZX5Dp24eGTTj4vw==
+"@kleros/dx-react@^2.6.14":
+  version "2.6.23"
+  resolved "https://registry.yarnpkg.com/@kleros/dx-react/-/dx-react-2.6.23.tgz#e30432b0ff9fa6f919616b2f86449b28a5a70a79"
+  integrity sha512-SIxLp1p3NriffGQlCaix7OAKgqmq7CMiqoK3qNnOa2jFh23RtO1wynJomk9LeVYEeOyt9LkoMfEjfJdnM4iQ5Q==
   dependencies:
     "@gnosis.pm/dx-contracts" "2.0.0"
     "@gnosis.pm/gno-token" "2.0.0"
@@ -1354,10 +1354,10 @@
     web3Latest "npm:web3@^1.2.1"
     webpack "3.12.0"
 
-"@kleros/fairdex@^1.0.12":
-  version "1.0.13"
-  resolved "https://registry.yarnpkg.com/@kleros/fairdex/-/fairdex-1.0.13.tgz#04cbfb3a84ef711987aed17eb702c739e8b4ca55"
-  integrity sha512-2A/VNp4QX6Gp22SGfqM9aouewZ29q39xObAt1YrCZiuBQTrBpMNuxxhh4axLz9Z7JP1gW5HBjdynEZ/3ZYIitw==
+"@kleros/fairdex@^1.0.13":
+  version "1.0.14"
+  resolved "https://registry.yarnpkg.com/@kleros/fairdex/-/fairdex-1.0.14.tgz#dd4e335844953ebdc5c62fae9b4f15f46fdf4ede"
+  integrity sha512-citTmzX5fXg3OVR8WcZS5brTfGw2+Qt0nrX1W+biljTMRst+XbHMsOhneDyaiSU5vnbA/JilAB0JJrF37ziOug==
   dependencies:
     "@gnosis.pm/dx-contracts" "^2.0.0"
     bignumber.js "^8.0.2"
