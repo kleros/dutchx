@@ -1354,10 +1354,10 @@
     web3Latest "npm:web3@^1.2.1"
     webpack "3.12.0"
 
-"@kleros/fairdex@^1.0.19":
-  version "1.0.19"
-  resolved "https://registry.yarnpkg.com/@kleros/fairdex/-/fairdex-1.0.19.tgz#16a9f68d98e10b4a89f6f68cdc64ff2b66f9e26f"
-  integrity sha512-8o0T36K5G6IpSEnJsJJed11/TTMr4rVUmekq0m9W6eaxDfIWER5jvvEu7QwKYMLiBgakoi8NE94OuUGXQc+92w==
+"@kleros/fairdex@^1.0.20":
+  version "1.0.20"
+  resolved "https://registry.yarnpkg.com/@kleros/fairdex/-/fairdex-1.0.20.tgz#598763d32183cfc1b8490948e0fb28fd98fa265c"
+  integrity sha512-avwIa4VHMOHTgRODFSYzNLOXBviNWB4eqgVXmpp6jU/BVxrlyMNJl4DpPZc7xZPpkf1CZecx/ak2izlQ2tmddw==
   dependencies:
     "@gnosis.pm/dx-contracts" "^2.0.0"
     bignumber.js "^8.0.2"
