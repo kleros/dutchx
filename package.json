@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@kleros/dx-react": "^2.6.34",
-    "@kleros/fairdex": "^1.0.24",
+    "@kleros/fairdex": "^1.0.25",
     "antd": "^3.24.3",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
