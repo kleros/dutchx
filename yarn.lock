@@ -1408,9 +1408,9 @@
     "@types/yargs" "^13.0.0"
 
 "@kleros/dx-react@^2.6.34":
-  version "2.6.35"
-  resolved "https://registry.yarnpkg.com/@kleros/dx-react/-/dx-react-2.6.35.tgz#8fbeaa158351d688680859ccc1a1f2a859fcc50c"
-  integrity sha512-AxbzgudDEHW1nUffkRGJOttxO7IyES56tiIqk1tBxTtXqok6WAItAupSLamO19IJYMW39UnnwigNSOYyuS4+Iw==
+  version "2.6.36"
+  resolved "https://registry.yarnpkg.com/@kleros/dx-react/-/dx-react-2.6.36.tgz#eea3e2e67ff51942aafb3473a5a4b9fbae708616"
+  integrity sha512-BIc/Sv6cNj0QTdHcz4WOl2ejvU/GWH8xpiKF5U8ZrJlN/ynAEnu8fAkGPKpuG3vXUtzV7Npj0ODhgYjlAqq9jA==
   dependencies:
     "@gnosis.pm/dx-contracts" "2.0.0"
     "@gnosis.pm/gno-token" "2.0.0"
@@ -14406,9 +14406,9 @@ source-map-support@^0.4.15:
     source-map "^0.5.6"
 
 source-map-support@^0.5.16:
-  version "0.5.17"
-  resolved "https://registry.yarnpkg.com/source-map-support/-/source-map-support-0.5.17.tgz#29fe1b3c98b9dbd5064ada89052ee8ff070cb46c"
-  integrity sha512-bwdKOBZ5L0gFRh4KOxNap/J/MpvX9Yxsq9lFDx65s3o7F/NiHy7JRaGIS8MwW6tZPAq9UXE207Il0cfcb5yu/Q==
+  version "0.5.18"
+  resolved "https://registry.yarnpkg.com/source-map-support/-/source-map-support-0.5.18.tgz#f5f33489e270bd7f7d7e7b8debf283f3a4066960"
+  integrity sha512-9luZr/BZ2QeU6tO2uG8N2aZpVSli4TSAOAqFOyTO51AJcD9P99c0K1h6dD6r6qo5dyT44BR5exweOaLLeldTkQ==
   dependencies:
     buffer-from "^1.0.0"
     source-map "^0.6.0"
